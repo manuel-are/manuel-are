@@ -3,8 +3,6 @@
 
 Desarrollador RPA especializado en automatización de procesos con Blue Prism y Power Automate. Actualmente curso la Tecnicatura Universitaria en Programación – UTN FRBA, donde continúo fortaleciendo mis conocimientos en desarrollo de software.
 
-Estudiante de la Tecnicatura Universitaria en Programación – UTN FRBA.
-
 Además de mi experiencia profesional, en este perfil comparto proyectos personales.
 
 ##  Contribuciones
